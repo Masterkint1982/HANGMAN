@@ -15,8 +15,8 @@ time.sleep(1)
 print "Start guessing..."
 time.sleep(0.5)
 
-#here we set the secret
-word = "secret"
+#Please change secret word
+word = "Sardinia"
 
 #creates an variable with an empty value
 guesses = ''
