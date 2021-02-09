@@ -1,4 +1,4 @@
 # HANGMAN
 Building a Hangman game // First project
-# my very first project on a Python
-# Will be a game of Hangman
+My very first project on Python 
+I will design a Hangman game to exercises and practice
