@@ -1,12 +1,11 @@
-#importing the time module
+s#importing the time module
 import time
 
 name = input("What is your name? ")
-print ("Hello, " + name, "Time to play hangman!")
+print ("Hello, " + name, "Let's play hangman!")
 print ("")
 time.sleep(1)
 print ("Start guessing...")
-time.sleep(0.5)
 word = "sardinia"
 guesses = ''
 turns = 10
